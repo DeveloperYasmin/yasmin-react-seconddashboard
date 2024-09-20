@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/yasmin-react-seconddashboard/static/css/main.40dce402.css",
-    "main.js": "/yasmin-react-seconddashboard/static/js/main.fae79d8d.js",
+    "main.css": "/yasmin-react-seconddashboard/static/css/main.e31cfbcb.css",
+    "main.js": "/yasmin-react-seconddashboard/static/js/main.6c5d38a1.js",
     "index.html": "/yasmin-react-seconddashboard/index.html",
-    "main.40dce402.css.map": "/yasmin-react-seconddashboard/static/css/main.40dce402.css.map",
-    "main.fae79d8d.js.map": "/yasmin-react-seconddashboard/static/js/main.fae79d8d.js.map"
+    "main.e31cfbcb.css.map": "/yasmin-react-seconddashboard/static/css/main.e31cfbcb.css.map",
+    "main.6c5d38a1.js.map": "/yasmin-react-seconddashboard/static/js/main.6c5d38a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.40dce402.css",
-    "static/js/main.fae79d8d.js"
+    "static/css/main.e31cfbcb.css",
+    "static/js/main.6c5d38a1.js"
   ]
 }
